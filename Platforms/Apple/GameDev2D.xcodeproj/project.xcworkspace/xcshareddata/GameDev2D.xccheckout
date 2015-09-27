@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29842D0E-8A93-4E05-BCFF-2970E547D346</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GameDev2D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D7CA6CD6-C581-46A1-9243-174D95EC7AFD</key>
+		<string>https://subversion.assembla.com/svn/gam1540-finalproject-rachel-joel/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GAM1540 - Final Project/Platforms/Apple/GameDev2D.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D7CA6CD6-C581-46A1-9243-174D95EC7AFD</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>D7CA6CD6-C581-46A1-9243-174D95EC7AFD</key>
+		<string>https://subversion.assembla.com/svn/gam1540-finalproject-rachel-joel</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/gam1540-finalproject-rachel-joel/trunk/GAM1540%20-%20Final%20Project/Platforms/Apple/GameDev2D.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D7CA6CD6-C581-46A1-9243-174D95EC7AFD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D7CA6CD6-C581-46A1-9243-174D95EC7AFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gam1540-finalproject-rachel-joel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

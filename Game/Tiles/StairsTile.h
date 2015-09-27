@@ -1,0 +1,44 @@
+//
+//  StairsTile.h
+//  Algonquin College
+//
+//  Students: Joel Cright & Rachel Joannis
+//  Creation Date: Fall 2014
+//  Course Number: GAM1540
+//  Professor:  Bradley Flood
+//  Purpose: To create stairs tiles.
+//
+
+#ifndef __GameDev2D__StairsTile__
+#define __GameDev2D__StairsTile__
+
+#include "Tile.h"
+
+
+namespace GameDev2D
+{
+    //Forward Declarations
+    class SubSection;
+
+    // Constants
+    const unsigned short STAIRS_VARIANT_COUNT = 2;
+
+    //Stairs Tile class
+    class StairsTile : public Tile
+    {
+    public:
+        StairsTile(SubSection* subSection, uvec2 coordinates, unsigned int variant);
+        ~StairsTile();
+        
+        //Returns the type of tile
+        TileType GetTileType();
+        
+        //Returns the number of tile variants
+        unsigned int GetVariantCount();
+        
+        //Gets the atlas key for the tile variant
+        void GetAtlasKeyForVariant(unsigned int variant, string& atlasKey);
+    };
+}
+
+#endif /* defined(__GameDev2D__StairsTile__) */
